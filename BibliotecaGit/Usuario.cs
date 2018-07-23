@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BibliotecaGit
 {
-    class Usuario
+    public class Usuario
     {
-        private string Nombre;
+        public string Nombre { get; set; }
 
         public Usuario()
         {
