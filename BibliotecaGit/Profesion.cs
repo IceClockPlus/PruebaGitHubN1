@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaGit
 {
-    public class Class1
+    class Profesion
     {
     }
 }
