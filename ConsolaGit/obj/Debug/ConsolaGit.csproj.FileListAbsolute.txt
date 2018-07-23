@@ -1,0 +1,6 @@
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\bin\Debug\ConsolaGit.exe.config
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\bin\Debug\ConsolaGit.exe
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\bin\Debug\ConsolaGit.pdb
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.exe
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.pdb
