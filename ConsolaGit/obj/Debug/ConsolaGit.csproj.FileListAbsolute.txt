@@ -4,3 +4,7 @@ C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\bin\Debug\ConsolaGit.pdb
 C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.csproj.CoreCompileInputs.cache
 C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.exe
 C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.pdb
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\bin\Debug\BibliotecaGit.dll
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\bin\Debug\BibliotecaGit.pdb
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.csprojAssemblyReference.cache
+C:\Users\Alexis\Desktop\PruebaGit\ConsolaGit\obj\Debug\ConsolaGit.csproj.CopyComplete

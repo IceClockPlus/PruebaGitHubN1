@@ -10,6 +10,8 @@ namespace BibliotecaGit
     {
         public string NombreProfesion { get; set; }
 
+        public Colegio Colegio { get; set; }
+
         public Profesion()
         {
             this.Init();
@@ -18,6 +20,7 @@ namespace BibliotecaGit
         private void Init()
         {
             this.NombreProfesion = string.Empty;
+            this.Colegio = new Colegio();
         }
     }
 }

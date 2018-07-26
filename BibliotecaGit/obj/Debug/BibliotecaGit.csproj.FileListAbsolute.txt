@@ -1,0 +1,6 @@
+C:\Users\Alexis\Desktop\PruebaGit\BibliotecaGit\bin\Debug\BibliotecaGit.dll
+C:\Users\Alexis\Desktop\PruebaGit\BibliotecaGit\bin\Debug\BibliotecaGit.pdb
+C:\Users\Alexis\Desktop\PruebaGit\BibliotecaGit\obj\Debug\BibliotecaGit.csprojAssemblyReference.cache
+C:\Users\Alexis\Desktop\PruebaGit\BibliotecaGit\obj\Debug\BibliotecaGit.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\PruebaGit\BibliotecaGit\obj\Debug\BibliotecaGit.dll
+C:\Users\Alexis\Desktop\PruebaGit\BibliotecaGit\obj\Debug\BibliotecaGit.pdb

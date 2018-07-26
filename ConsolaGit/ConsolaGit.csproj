@@ -50,5 +50,11 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaGit\BibliotecaGit.csproj">
+      <Project>{8d62ca9a-00aa-486a-bb5c-d8cf1f054970}</Project>
+      <Name>BibliotecaGit</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

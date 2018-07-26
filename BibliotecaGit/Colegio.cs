@@ -6,21 +6,25 @@ using System.Threading.Tasks;
 
 namespace BibliotecaGit
 {
-    public class Usuario
+    public class Colegio
     {
         public string Nombre { get; set; }
 
-        public Profesion MiProfesion { get; set; }
+        public int AnnoInicio { get; set; }
 
-        public Usuario()
+        public Colegio()
         {
             this.Init();
         }
 
         private void Init()
         {
-            this.Nombre = String.Empty;
-            this.MiProfesion = new Profesion();
+            this.Nombre = string.Empty;
+            this.AnnoInicio = 0;
         }
+
+
+
+
     }
 }
